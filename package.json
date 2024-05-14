@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "backend-day-4",
+  "version": "1.0.0",
+  "description": "backend day 4 here we learn a lot about express much more",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zohaib Arshad",
+  "license": "ISC"
+}

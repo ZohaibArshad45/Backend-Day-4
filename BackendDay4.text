@@ -1,0 +1,9 @@
+Express
+
+node ./script.js === jb koi change krty h tu humary her bar new server chalana parta ha, is y hal ky lia nodemon ha
+
+npm i nodemon -g  ==== is ko globally install kr lo, phr bar bar jb b koi new project bana ho ga tu is sy bar bar install nh krna pary ga
+
+Routing
+Middleware
+Request and response handling
